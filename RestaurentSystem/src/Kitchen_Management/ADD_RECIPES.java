@@ -44,8 +44,6 @@ public class ADD_RECIPES {
 	private JTextField textField_6;
 	private JTextField textField_7;
 
-	
-
 
 	/**
 	 * Launch the application.
