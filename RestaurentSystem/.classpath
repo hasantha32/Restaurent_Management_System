@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="F:/New folder/RestaurentSystem/RestaurentSystem/Resources/jcalendar-1.4.jar"/>
+	<classpathentry kind="lib" path="F:/New folder/RestaurentSystem/RestaurentSystem/Resources/JTattoo-1.6.13.jar"/>
+	<classpathentry kind="lib" path="F:/New folder/RestaurentSystem/RestaurentSystem/Resources/mysql-connector.jar"/>
+	<classpathentry kind="lib" path="F:/New folder/RestaurentSystem/RestaurentSystem/Resources/mysql-connector-java-8.0.13.jar"/>
+	<classpathentry kind="lib" path="F:/New folder/RestaurentSystem/RestaurentSystem/Resources/oclc-dbutils-1.0.20080317.jar"/>
+	<classpathentry kind="lib" path="F:/New folder/RestaurentSystem/RestaurentSystem/Resources/rs2xml.jar"/>
+	<classpathentry kind="lib" path="F:/New folder/RestaurentSystem/RestaurentSystem/Resources/sqlitejdbc-v056.jar"/>
+	<classpathentry kind="lib" path="F:/Inventory 2.0 _final/Inventory_final/jgoodies-common-1.8.0.jar"/>
+	<classpathentry kind="lib" path="F:/Inventory 2.0 _final/Inventory_final/jgoodies-common-1.8.0-sources.jar"/>
+	<classpathentry kind="lib" path="F:/Inventory 2.0 _final/Inventory_final/jgoodies-forms-1.8.0.jar"/>
+	<classpathentry kind="lib" path="F:/Inventory 2.0 _final/Inventory_final/jgoodies-forms-1.8.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
