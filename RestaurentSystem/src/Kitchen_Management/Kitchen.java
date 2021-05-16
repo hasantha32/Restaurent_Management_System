@@ -331,30 +331,7 @@ public class Kitchen {
 		btnNewButton_1_2_1.setBounds(0, 308, 313, 55);
 		frame.getContentPane().add(btnNewButton_1_2_1);
 		
-		
-		
-	
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+
 		
 		JButton btnNewButton_2 = new JButton("ADD RECIPES");
 		
