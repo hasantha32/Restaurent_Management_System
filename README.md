@@ -1,5 +1,3 @@
-
-<<<<<<< HEAD
 # Restaurent_Management_System 
 Restaurent Management Project in Java.
 =======
